@@ -18,11 +18,11 @@ Javascript, HTML, CSS, NodeJs
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on graduating well at Zuri Internship.
+👩‍💻 I'm currently working on graduating well at Zuri Internship (successfully done and added another completion "HNGi9 Finalist).
 
 🧠 I'm currently learning Azure Development.
 
-👯‍♀️ I'm looking to collaborate on whatsApp codebase and other research open source.
+👯‍♀️ I'm looking forward to collaborating on whatsApp codebase and other research open source.
 
 🤔 I'm looking for help with Jobs and how to go about Azure Development.
 
