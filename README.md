@@ -17,7 +17,7 @@ I'm a Backend developer, I am currently in love with Cartoons.
 Javascript, HTML, CSS, NodeJs
 
 
-## Other Common Github Profile Sections
+## A lot about Olúbùsọ́lá 
 👩‍💻 I'm currently working on graduating well at Zuri Internship (successfully done and added another completion "HNGi9 Finalist).
 
 🧠 I'm currently learning Azure Development.
