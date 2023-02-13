@@ -18,13 +18,16 @@ Javascript, HTML, CSS, NodeJs
 
 
 ## A lot about Olúbùsọ́lá 
-👩‍💻 I'm currently working on graduating well at Zuri Internship (successfully done and added another completion "HNGi9 Finalist).
 
-🧠 I'm currently learning Azure Development.
+👩
+
+👩‍💻 Successfully completed the ZURI Internship and HNGi9 
+
+🧠 I'm currently learning another stack.
 
 👯‍♀️ I'm looking forward to collaborating on whatsApp codebase and other research open source.
 
-🤔 I'm looking for help with Jobs and how to go about Azure Development.
+🤔 I'm looking for help with Jobs and how to go about my new stack.
 
 💬 Ask me about God and food
 
