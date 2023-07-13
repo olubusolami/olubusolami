@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Backend developer, I am currently in love with Cartoons.
+I'm a Backend developer, who is currently in love with Cartoons.
 
 
 
@@ -14,24 +14,24 @@ I'm a Backend developer, I am currently in love with Cartoons.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, NodeJs
+Javascript, HTML, CSS, NodeJs, NestJs
 
 
-## A lot about Olúbùsọ́lá 
+## About Olúbùsọ́lá 
 
-👩
+👩 Lost my best friend (my grandpa) on June 20th, 2023.
 
 👩‍💻 Successfully completed the ZURI Internship and HNGi9 
 
 🧠 I'm currently learning another stack.
 
-👯‍♀️ I'm looking forward to collaborating on whatsApp codebase and other research open source.
+👯‍♀️ I'm looking forward to collaborating on the WhatsApp codebase and other research open source.
 
-🤔 I'm looking for help with Jobs and how to go about my new stack.
+🤔 I'm looking for help with Jobs with NestJs.
 
-💬 Ask me about God and food
+💬 Ask me about God and food.
 
-📫 How to reach me on my email devolubusola@gmail.com
+📫 Kindly reach me on my email devolubusola@gmail.com
 
 ⚡️ Fun fact about me, Ikokore is the meal I can eat and cook regardless of how full or tired I am.
 
