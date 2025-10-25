@@ -31,7 +31,7 @@ Javascript, HTML, CSS, NodeJs, NestJs
 
 💬 Ask me about God and food.
 
-📫 Kindly reach me on my email devolubusola@gmail.com
+📫 Kindly reach me on my email devolubusola@gmail.com or olubusolao3@gmail.com
 
 ⚡️ Fun fact about me, Ikokore is the meal I can eat and cook regardless of how full or tired I am.
 
